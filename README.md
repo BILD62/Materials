@@ -37,9 +37,9 @@ Design a final project of your choosing! Build a computational model, analyze an
 
 ## FAQS
 ### Who can take this course?
-The course at UC San Diego is restricted to undergraduates and graduate students (via EASy request). Anyone can use the materials here.
+The course at UC San Diego is restricted to undergraduates and graduate students (via EASy request). Anyone can use the materials here by using the Colab link above, though! You can also check out [DataQuest](dataquest.io) or [The Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython/).
 
-### Do I need coding experience?
+### Do I need coding experience to succeed in this course?
 No! This course assumes that you have absolutely none, zero, zippo, coding experience.
 
 ### If I'm a biology student, why should I take coding?
