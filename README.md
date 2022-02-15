@@ -32,3 +32,14 @@ We'll discuss neuro-informatics and bioinformatics, and show you how to mine you
 
 ### Week 10: Final projects
 Design a final project of your choosing! Build a computational model, analyze an open source data set... the sky is the limit.
+
+## FAQS
+### Who can take this course?
+The course at UC San Diego is restricted to undergraduates and graduate students (via EASy request). Anyone can use the materials here.
+
+### Do I need coding experience?
+No! This course assumes that you have absolutely none, zero, zippo, coding experience.
+
+### If I'm a biology student, why should I take coding?
+Biology data is getting bigger and bigger each year! There are many flavors of -ohmics (genomics, proteomics, etc.) and each of those types of data analyses can benefit from a bit of coding knowledge. Coding can help you visualize your data, run statistics, create computational models of biological systems, and more. 
+
