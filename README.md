@@ -1,5 +1,6 @@
 # Materials
-Lecture notebooks for BILD 62
+This repository contains lecture notebooks for BILD 62. It can be launched in Google Colab using the button below. 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/BILD62/Materials)
 
 ## Topics covered
 
