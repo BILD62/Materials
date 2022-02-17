@@ -3,7 +3,7 @@ This repository contains lecture notebooks for BILD 62. It can be launched in Go
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/BILD62/Materials)
 
-## Topics covered
+## _Tentative_ Syllabus
 
 ### Week 1: Tools, programming fundamentals, & basic Python syntax
 To set the foundation for this course, we’ll introduce the approaches and tools that we’ll use throughout, as well as the motivation for learning how to code as a biology student. I'll show you where to find Python, either on your own computer, or in Jupyter Notebooks (via the DataHub). 
