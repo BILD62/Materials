@@ -45,3 +45,5 @@ No! This course assumes that you have absolutely none, zero, zippo, coding exper
 ### If I'm a biology student, why should I take coding?
 Biology data is getting bigger and bigger each year! There are many flavors of -ohmics (genomics, proteomics, etc.) and each of those types of data analyses can benefit from a bit of coding knowledge. Coding can help you visualize your data, run statistics, create computational models of biological systems, and more. 
 
+### What is the work load like for this course?
+The main assessment in this course will be weekly coding assignments. In addition, there is a final group project.
